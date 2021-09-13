@@ -1,2 +1,2 @@
 ## todo
-![Current Cases View](images/Current_cases.png)
+![Current Cases View](images/todo.jpg)
